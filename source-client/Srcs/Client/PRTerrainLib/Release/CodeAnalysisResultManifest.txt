@@ -1,0 +1,3 @@
+Release\StdAfx.nativecodeanalysis.sarif
+Release\Terrain.nativecodeanalysis.sarif
+Release\TextureSet.nativecodeanalysis.sarif

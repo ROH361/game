@@ -1,0 +1,168 @@
+1	Geliştirmesi başarısız olan bir eşyanın imhasını kutsama kağıdı ile engelleyebilirsin.
+2	Evliliğe hazır mısın? O halde yaşlı kadına başvur.
+3	Işınlayıcı seni seviye 10'dan itibaren anında diğer bölgelere götürür.
+4	Köy meydanındaki bekçilerden lonca sistemi hakkında bilgi edinebilirsin.
+5	Mini haritanda "B" seçeneğini tıklayarak Savaş Bölgesi ve girişleri hakkında bilgi edinebilirsin.
+6	Lütfen depo şifreni düzenli aralıklarla değiştirmeyi unutma. Dikkati elden bırakma!
+7	Baek-go sana güçlü iksirler hazırlamana yardım eder.
+8	Hüa! Seviye 25'ten itibaren seyisin acemi at için at görevini başlatabilirsin.
+9	Oyun seçeneklerindeki "Klavye" alanını kullanarak kısayolları değiştir.
+10	Seviye 15'den itibaren heyecan verici PvP düellolarına katıl!
+11	Rast gele! Balıkçı sana balık tutmayı açıklar ve ayrıca sana uygun başlangıç ekipmanına sahiptir.
+12	Yanında maksimum 1.999.999.999 Yang taşıyabilirsin.
+13	Yanında maksimum 999 Won taşıyabilirsin.
+14	Petine ne yedirdiğine dikkat et. Bir kez yenildiğinde, eşya geri alınamaz.
+15	Dönüştürüldüğün sürece herhangi bir beceri kullanamazsın.
+16	Chaegirab'ın biyolog görevinden bir ödül olarak aldığın bonuslar kalıcı.
+17	Seviye 30 ve altındaki karakterlerin becerileri yaşlı kadın tarafından sıfırlanabilir.
+18	Bir düğünde, partnerler arasındaki seviye farkı 15'i geçemez.
+19	Bir eşyanın arındırması ne kadar yüksek olursa, görsel efekt o kadar fazla parlar.
+20	Bir Metin taşı kırarsan, zorlu bir savaşa hazır ol!
+21	Eşyalarını bağlama parşömeni ile hırsızlığa karşı koru.
+22	"Hayvanlara Karşı Güçlü" bonusu ile Maymun Zindanı'daki maymunlara daha fazla hasar verirsin.
+23	Dikkat et, çünkü Maymun Zindanı'ndaki canavarlar çok hızlı yumurtlar.
+24	Burada daha önce bulundum galiba? Maymun Zindanı'nda sürekli dejavu hissine kapılacaksın.
+25	Maymun Zindanı'nda mini haritan olmayacak.
+26	Araknofobi mi? Metin2 böcekleri arasında dev örümcekler de bulunur!
+27	Işınlanma halkasını kullanılarak Örümcek Zindanı'na hızlı ve kolay bir şekilde ulaşabilirsin.
+28	Kraliçe Örümcek'e dikkat et. Zehiri çok tehlikelidir!
+29	Örümcek Zindanı 2'ye girmek için geçit biletine ihtiyacın olacak.
+30	Örümcek Barones'in üreme mağarasını Arachnida Anahtarı ile aç.
+31	Çok az maceracı Şeytan kulesinden canlı olarak geri döndü!
+32	Şeytan kulesinde ödül olarak çok sayıda EXP ve eşya toplayabilirsin.
+33	6. katta bulunan efsanevi Şeytan Kulesi demircisine bıçağını bilet!
+34	Şeytan kulesindeki yaratıklara karşı karanlık direnci ile silahlan.
+35	Şeytan Katakombu'ndaki yaratıklara karşı karanlık direnci ile silahlan.
+36	Şeytan Katakombu'nun kapıları ancak öncesinde Şeytan Kulesi'ni fethedersen açılır.
+37	Şeytan Katakombu'nda mini haritan olmayacak.
+38	Şeytan Katakombu'nda birbirinize grup olarak kollayın.
+39	İblis Lordu Azrail, evcil hayvan olarak ısırgan zebaniler besler.
+40	Şeytan Katakombu'nun 2. seviyesine ulaşmak için, tüm grup üyelerinin bir Küçülen kafaya sahip olmaları gerekir.
+41	Sürgün mağarası korkunç yaratıklarla doludur.
+42	Sürgün mağarasına girmek için bir kan taşına ihtiyacın var.
+43	Sürgün mağarasında seni korku ve dehşetin yanı sıra değerli hazineler de bekliyor.
+44	Zalim tanrı Beran-Setaou, seni mağaranın 3. katındaki ejderha tapınağında bekliyor.
+45	Beran-Setaou gücünü Metin taşından alır. Düşmüş tanrıyı yenmek için onu imha et.
+46	Sürgün mağarasındaki yaratıklara karşı buz ve şimşek direncini kuşan.
+47	Sürgün mağarasındaki ejderha tapınağına sadece bir grupla girebilirsin.
+48	Beran-Setaou'yu yenmek için 1 saatiniz var.
+49	Kırmızı ejderha kalesinde parlayan lavlar akar.
+50	6 kırmızı ejderha kalesi bölgesini başarıyla tamamladıktan sonra Razador'u vur!
+51	Kırmızı ejderha kalesinde ışınlanma parşömenleri çalışmaz.
+52	Kırmızı ejderha kalesindeki yaratıklara karşı ateşe karşı dirençle silahlan.
+53	Kırmızı ejderha kalesini grubunla birlikte 1 saat içinde fethetmelisin.
+54	Nemere Gözlemevi'ni ele geçirmek için yanında en az bir Ninja ve bir Şaman olmalı.
+55	Nemere Gözlemevi'ndeki yaratıklara karşı buz direnci ile silahlan.
+56	Nemere Gözlemevi 9 kat ve bir de patron odasından oluşur.
+57	Nemere Gözlemevi'nde binek çağıramazsın.
+58	Nemere Gözlemevi'ni 1 saatte fethedebilir misiniz?
+59	Kayıp savaşçıları Nemere Gözlemevi'nden kurtarabilir misin?
+60	En-Tai Bekçisi, Ochao Tapınağı'nda rastgele bir yerde ortaya çıkar. Tekrar kaybolmadan ona saldır.
+61	En-Tai Bekçisi'ni yenmek ve Efsunlu Orman portalını açmak için 3 dakika süren var.
+62	Efsunlu Orman yaratıklarına karşı rüzgar direnci ile silahlan.
+63	Jotun Thrym'in yanında güçlü bir ordusu var.
+64	Erebos sadece Orman Perisi Taşı ile fethedilebilir.
+65	Bagjanamu'yu yendiğin anda Jotun Thrym belirir.
+66	Orman Perisi için "Hükümdarı yen" görevini tekrarlayabilirsin.
+67	Ejderha Kraliçesi Meley'e doğrudan saldıramazsın. Sadece ejderha heykellerinden hasar alır.
+68	Meley'in ini yaratıklarına karşı ateşe karşı dirençle silahlan.
+69	Ejderha heykellerini imhaetmek için Meley'in ininde ejderha ateş yüzüğünü kap.
+70	Meley'in inine girebilmek için loncan yeterli lonca puanına sahip olmalı.
+71	Zindanı fethetme hızınız ve katılımcı sayısı mağaradaki sıralamayı belirler.
+72	Kraliçe Meley'in sandığında kırmızı ejderha yumurtasi ile küçük Meley petini bulabilirsin!
+73	Meley'in inini (Lonca) başarıyala tamamlamak için loncanın en az 4 üyesi olmalı.
+74	Meley'in ini (Grup) PvP kaskı malzemesi, Meley'in ini (Lonca) PvE kaskı malzemesi içerir.
+75	Zodyak Tapınağı, içinde 12 bekçi bulunan 12 farklı zindandan oluşur.
+76	Her bir Zodyak Tapınağı'na farklı bir günde ulaşabilirsin.
+77	Her Zodyak Tapınağı bekçisini güçlendiren, kendine has bir elemente sahiptir.
+78	Zi Tapınağı'nda karanlık direnci ile savaşa hazırlan.
+79	Chou Tapınağı'nda toprak direnci ile savaşa hazırlan.
+80	Yin Tapınağı'nda ateşe karşı direnç ile savaşa hazırlan.
+81	Mao Tapınağı'nda rüzgar direnci ile savaşa hazırlan.
+82	Chen Tapınağı'nda şimşek direnci ile savaşa hazırlan.
+83	Si Tapınağı'nda buz direnci ile savaşa hazırlan.
+84	Wu Tapınağı'nda buz direnci ile savaşa hazırlan.
+85	Wei Tapınağı'nda şimşek direnci ile savaşa hazırlan.
+86	Shen Tapınağı'nda toprağa karşı direnç ile savaşa hazırlan.
+87	Yu Tapınağı'nda rüzgar direnci ile savaşa hazırlan.
+88	Zu Tapınağı'nda karanlık direnci ile savaşa hazırlan.
+89	Hai Tapınağı'nda ateşe karşı direnç ile savaşa hazırlan.
+90	Uygun element tılsımı, ilgili Zodyak Tapınağı'nı fethetmeni kolaylaştırır.
+91	Zodyak Tapınağı'na girmek için 12 Animasfer doldur.
+92	Uyanış Prizması seni Zodyak Tapınağı'nda diriltir.
+93	Element tılsımları +200'e kadar arındırılabilir.
+94	Zodyak Tapınağı'nın 40. katında Zodyak tüccarından bütün bekçi nişanlarını satın alabilirsin.
+95	Uyanış Prizması ile bir takım arkadaşını da diriltebilirsin.
+96	Zodyak Tapınağı'na tek başına da girebilirsin, ancak grup halinde daha çok ödül alırsın.
+97	Zodyak Tapınağı'nın her bir seviyesinde 10 dakikalık bir zaman sınırı vardır.
+98	Macera dolu bir yolculuğa çıkmaya hazır mısın?
+99	Gemini Hidra'nın saldırısına karşı savunmak için 25 dakikan var.
+100	Buz direnci ile gemi savunması yaratıklarına hazır ol.
+101	Dümen ile gemi savunmasını başlat.
+102	Bir deniz kazasını önlemek için her koşulda gemi direği ile ana yelkeni koru.
+103	Hidra'nın yavrusu savaşta her türlü faydalı eşya düşürür.
+104	Yeni kıtanın limanındaki Gaya tüccarıyla Gaya üretme şansın eski dünyadan daha yüksek.
+105	Batma tehlikesi yaşamamak için Hidra'nın yavrusunun su saldırılarını mümkün olduğu kadar erken durdur.
+106	Heyecan verici bir gemi yolculuğundan sonra seni yeni bir kıta bekliyor!
+107	Hey, sen! Evet, sen! Metin2 Ekibi seni çok <3.
+108	Günlük Görev "Yanılsama Dünyası"nı tamamlarsan, %100 bir Uyanış Kitabı alırsın.
+109	Zaman Çatlağı görevini başarıyla tamamlarsan, sabiti bir olasılıkla bir Uyanış Kitabı alırsın.
+110	Zaman Çatlağı görevini 10 kez başarıyla tamamlarsan, %100 bir Uyanış Kitabı alırsın.
+111	Uyanış zindanı canavarları, Zaman Çatlağı zindanı canavarlarından daha güçlüdür.
+112	Uyanış zindanının patron canavarında bir Uyanış patron sandığı bulunur.
+113	Zaman Çatlağı ve Uyanış zindanlarında ejderha taşı parçası+ yağmalanabilir.
+114	Zaman Çatlağı zindanlarının canavarlarından küçük ganimetler düşer.
+115	Elementer dünyasında birçok farklı doğa ruhu yaşar.
+116	Set bonusları elde etmek için ekipmanına uygun malzemelerle set etkileri ekleyebilirsin.
+117	İlkel Kuvvet Yüzüğü ile gizli İlkel Kuvvetler Platosu'na ulaşabilirsin.
+118	Metin2 dünyasında çok sayıda güçlü doğa ruhu vardır.
+119	İlkel Kuvvetler Platosu'nda evcilleşmemiş doğa güçleri HP'ni çalar.
+120	Elementer lanetinden korunmak için bir İlkel Kuvvet Klanı kullanabilirsin.
+121	En son kim hayatta kalacak?
+122	Battle Royale moduna hoş geldin?
+123	Savaştaki debufflar ızgara levrek ile kaldırılabilir.
+124	10'dan fazla oyuncuyu yenersen özel bir ödül alırsın.
+125	2. ve 4. güvenli bölgede özel bir tedarik kutusu bulabilirsin.
+126	Bir tedarik kutusunu veya ekipman kutusunu yok edersen, hayat puanın geri yüklenir.
+127	Battle Royale modunda duyguları ücretsiz kullanabilirsin.
+128	120. seviyeden itibaren yeni kıta Yohara'ya girebilirsin.
+129	Daha değerli ganimetler için daha güçlü rakipleri devir!
+130	Sung Mahi'nin karanlık iradesi, Yohara kıtasında senin gücünü sömürüyor. Bunu engellemek için kendi iradeni güçlendir!
+131	Dongan ovasından yeni eşyalar ele geçirebilirsin.
+132	Eldiven takabilmek için ilgili görevleri tamamla.
+133	Eldivenler sana çok sayıda kullanışlı bonuslar sağlar.
+134	Chi Usta senin için çok sayıda kullanışlı eşyalar üretebilir.
+135	Aralıksız bonuslar mı kazanmak istiyorsun? Öyleyse biyolog Chaegirab'a araştırmasında yardımcı ol!
+136	Bir ruh kalıntısı ile karakterine pasif bonuslar ekleyebilirsin.
+137	Bir sonraki şampiyon seviyesine ulaştığında değerlerini yükseltebilirsin.
+138	"Lanet, müttefiklere güvenmektir" - Eski bir öğreti
+139	Sung Mahi'nin Cehennem Kulesi'nde tek başına savaşırsın.
+140	Sung Mahi'nin Cehennem Kulesi'nde tamamlanan her kat için bir ödül alırsın.
+141	Sadece en güçlüler Sung Mahi'nin Cehennem Kulesi'ne yükselebilir.
+142	SungMa iraden ne kadar güçlüyse, Yohara'da o kadar az tehlikeyle karşılaşırsın.
+143	Gnoll mağaralarında ölürsen, dışarı götürülürsün. Dikkatli ol!
+144	Gnoll mağaralarında birçok gizli geçit bulunur.
+145	Burayı yöneten bir rahip var.
+146	Gizemli zindana hoş geldin.
+147	Burada güçlü bir tılsım kazanabilirsin.
+148	Yılan Tapınağı'na girmek için yılan bekçisi ile konuş.
+149	Yılan heykelinin yardımıyla Yılan Tapınağı'nı deneyimleyebilirsin...
+150	Burada rakip patrona dönüşebilecek bir canavar var.
+151	Yılan Tapınağı'na yılan heykelinden girebilirsin.
+152	6. katta eldivenlerini geliştirebilecek özel bir demirci var.
+153	Yılan Tapınağı'nın son patronu Yılan Kraliçesi Nethis'i zindanın 7. katında bulabilirsin.
+154	Yılan Tapınağı'nın zindan sayacı yılan tozu ile uzatılabilir.
+155	Yakındaki tüm canavarları alt ederek SungMa İstila Portalı’nı yok edebilirsin.
+156	Daha iyi savaşabilmek için bir güç çiçeği kullan.
+157	Fırtına çiçeği bir süre için hareket hızını arttırır.
+158	Patron canavarlar yenerek kupalar kazanabilirsin.
+159	Altın Topraklar’a hoş geldin!
+160	Primoridis heykellerine saklanmış patlayıcı kuleler ölümcüldür.
+161	Altın monoliti kullanarak katlara giriş yapabilirsin.
+162	Altın Palmiye’de altın dut avının oyun tahtasını açabilirsin.
+163	Kervan Tüccarı vahalarda bulunur.
+164	Hazine adasına hoş geldin!
+165	Hazine Goblin'ini onu pusuda bekleyen canavarlardan koru!
+166	Hazine adasından ayrıldığında oraya girdiğin yere geri dönersin.
+167	Canavarlar az miktarda Doblon taşır.
+168	Ona eşlik etmeden önce Hazine Goblinini kutsayabilirsin.

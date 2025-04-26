@@ -1,0 +1,7 @@
+Release\BoundaryShapeManager.nativecodeanalysis.sarif
+Release\SpeedGrassRT.nativecodeanalysis.sarif
+Release\SpeedGrassWrapper.nativecodeanalysis.sarif
+Release\SpeedTreeForest.nativecodeanalysis.sarif
+Release\SpeedTreeForestDirectX8.nativecodeanalysis.sarif
+Release\SpeedTreeWrapper.nativecodeanalysis.sarif
+Release\StdAfx.nativecodeanalysis.sarif

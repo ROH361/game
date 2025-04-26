@@ -1,0 +1,6 @@
+Release\PythonDebugModule.nativecodeanalysis.sarif
+Release\PythonLauncher.nativecodeanalysis.sarif
+Release\PythonMarshal.nativecodeanalysis.sarif
+Release\PythonUtils.nativecodeanalysis.sarif
+Release\Resource.nativecodeanalysis.sarif
+Release\StdAfx.nativecodeanalysis.sarif

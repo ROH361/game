@@ -1,0 +1,5 @@
+[DELAY value;0]
+Svého mazlíka mùe oivit zkombinováním jeho tìla s[ENTER]
+Boskımi proteiny.\n[ENTER]
+Mnoství vyadovanıch materiálù záleí na vìku mazlíka.\n[ENTER]
+Mrtvı mazlík bude oiven s 80 % jeho pùvodního vìku.\n

@@ -1,0 +1,168 @@
+1	Pouitím Poehnaného pergamenu ochrání pøedmìt pøed znièením, pokud jeho vylepení sele.
+2	Jsi pøipraven na manelství? Tak si promluv se Staøenkou.
+3	Od úrovnì 11 tì mùe Teleportér snadno a rychle pøenést do jiné oblasti.
+4	O systému cechù se dozví od Stráce návsi.
+5	Klikni na 'B vedle mini mapy, aby ses dozvìdìl více o Bitevní zónì a jak se do ní dostat.
+6	Nezapomeò si pravidelnì mìnit heslo do Skladitì. Bezpeènost pøedevím!
+7	Baek-Go ti pomùe vyrobit silné lektvary.
+8	Do sedla! Od 25. úrovnì mùe zaèít plnit jezdeckı úkol u Pacholka.
+9	Klávesové zkratky si mùe zmìnit volbou 'Klávesnice' v nastavení herních moností.
+10	Pøiprav se na vzruující PvP souboje od úrovnì 15!
+11	Promluv si s rybáøem, aby ses nauèil rybaøit a získal jsi nìjakou vıbavu pro zaèátek. A berou!
+12	Mùe pøenáet maximálnì 1 999 999 999 Yangù.
+13	Mùe pøenáet maximálnì 999 Wonù.
+14	Dobøe si prohlédni, èím krmí svého Mazlíka. Jakmile to seere, u to nedostane zpìt.
+15	Nemùe pouívat schopnosti, kdy jsi v promìnì!
+16	Bonusy, které obdrí jako odmìnu za úkoly biologa Chaegiraba, jsou permanentní.
+17	Postava a do úrovnì 30 vèetnì mùe své schopnosti zresetovat u Staøenky.
+18	Rozdíl mezi postavami, které chtìjí mít svatbu, nesmí bıt více ne 15 úrovní.
+19	Èím více je pøedmìt zulechtìnı, tím více se tøpytí.
+20	Po znièení kamene Metin se pøiprav na tuhı boj!
+21	Se Svitkem pøipoutání ochrání své pøedmìty pøed zlodìji.
+22	S bonusem silnı proti zvíøatùm zpùsobí v Opièím bluditi opicím mnohem vìtí pokození.
+23	Zùstaò na nohou! Pøíery se v Opièím bluditi obnovují velmi rychle.
+24	Pøijde ti to povìdomé? Opièí bluditì ti pøivodí nìkolik déj-vu momentù.
+25	Opièím bluditìm se musí pohybovat bez mini mapy.
+26	Má arachnofobií? Tak si dávej pozor na dìsivé velké pavouky na Metin2!
+27	Pavouèího bluditì dosáhne rychle pomocí Teleportaèního prstenu.
+28	Mìj oèi na otevøené a hledej Pavouèí královnu! Její jed je extrémnì nebezpeènı!
+29	Pro vstup do Pavouèího bluditì 2 potøebuje Propustku.
+30	Doupì Pavouèí baronky otevøe pomocí Pavouèího klíèe.
+31	Z Vìe démonù se vrátilo jen velmi málo dobrodruhù, kteøí by mohli vyprávìt pøíbìhy!
+32	Ve Vìi démonù mùe získat spoustu BZK a pøedmìtù.
+33	Nech si u legendárního kováøe na 6. patøe Vìe démonù naostøit zbraò!
+34	Proti pøíerám ve Vìi démonù dobøe funguje Odpor proti temnotì.
+35	Proti pøíerám v Ïáblovì katakombì dobøe funguje Odpor proti temnotì.
+36	Brány do Ïáblovy katakomby se otevøou jen v pøípadì, e jsi pøedtím zdolal Vì démonù.
+37	Ïáblovou katakombou se musí pohybovat bez mini mapy.
+38	V Ïáblovì katakombì si hledej spojence.
+39	Dávej si pozor na pekelné mazlíky Azraela.
+40	Pro vstup do druhého patra Ïáblovy katakomby musí mít vichni èlenové skupiny u sebe Vysuenou hlavu.
+41	Jeskynì vyhnanství se jenom hemí dìsivımi tvory.
+42	Pro vstup do Jeskynì vyhnanství potøebuje Krvavı kámen.
+43	Jeskynì vyhnanství se jenom hemí dìsivımi tvory a nevyslovitelnımi hrùzami. A epickou koøistí!
+44	Krutı bùh Beran-Setaou tì oèekává v Draèím chrámu, tøetí úrovni Jeskynì vyhnanství.
+45	Beran-Setaou získává svou sílu z kamenù Metin; zniè je a poraz padlého boha.
+46	Do Jeskyni vyhnanství se posil odolností proti ledu a bleskùm.
+47	Do Draèího chrámu v Jeskyni vyhnanství mùe vstoupit pouze pokud jsi èlenem skupiny.
+48	Má 1 hodinu na zabití Beran-Setaou.
+49	Pevností èerveného draka protéká hnoucí láva!
+50	Jakmile ovládne 6 oblastí v Pevnosti èerveného draka, bude se muset postavit Razadorovi!
+51	V Pevnosti èerveného draka nefunguje teleportaèní svitek.
+52	Proti pøíerám v Pevnosti èerveného draka dobøe funguje odolnost proti ohni.
+53	Tvá skupina má 1 hodinu na ovládnutí Pevnosti èerveného draka.
+54	Pro ovládnutí Nemerovy strání vìe potøebuje mít ve skupinì ninju a amana.
+55	Do Nemerovy strání vìe se vybav odolností proti ledu.
+56	Nemerova strání vì má 9 úrovní a místnost bosse.
+57	V Nemerovì strání vìi si nemùe pøivolat jezdecké zvíøe.
+58	Má co je tøeba, abys ovládl Nemerovu strání vì do 1 hodiny?
+59	Dokáe zachránit chybìjícího váleèníka z Nemerovy strání vìe?
+60	Stráce En-Tai se v Chrámu Ochao objevuje na náhodnıch místech. Zaútoè na nìj ne zmizí.
+61	Má 3 minuty na zabití Stráce En-Tai a otevøení portálu do Zakletého lesa.
+62	Proti pøíerám v Zakletém lese dobøe funguje odolnost proti vìtru.
+63	Jotun Thrym má po svém boku silnou armádu.
+64	Do Ereba mùe vstoupit pouze s Kamenem Dryád.
+65	Jotun Thrym se objeví jakmile porazí Bagjanamu.
+66	Úkol 'Zabij Vládce En-Tai' mùe opakovat pro zisk Kamene Dryád.
+67	Draèí královnu Meley nelze atakovat pøímo. Její pokození pochází z draèích soch.
+68	Proti pøíerám v Doupìti Meley dobøe funguje odolnost proti ohni.
+69	V Doupìti Meley popadni Prsten draèího ohnì a zniè draèí sochy.
+70	Pro vstup do Doupìte Meley potøebuje tvùj cech dostatek bodù hodnosti.
+71	Hodnocení v doupìti se odvíjí od rychlosti dokonèení a poètu úèastníkù.
+72	V Truhle královny Meley najde Vejce Èerveného draka a mazlíka Mini Meley!
+73	Tvùj cech musí mít alespoò 4 èleny, aby lo úspìnì ovládnout cechovní Doupì Meley.
+74	Pro PvP pøilbice najde materiál ve skupinovém Doupìti Meley a pro PvE pøilbice v cechovním Doupìti Meley.
+75	Chrám Zvìrokruhu má 12 rùznıch bludi s 12 rùznımi stráci.
+76	Rùzné dny jsou dostupné rùzné Chrámy Zvìrokruhu.
+77	Kadı Chrám Zvìrokruhu ovládá jinı element, kterı posile jeho stráce.
+78	Pro boj v Chrámu Zi se posilni odolností proti temnotì.
+79	Pro boj v Chrámu Chou se posilni odolností proti Zemi.
+80	Pro boj v Chrámu Yin se posilni odolností proti ohni.
+81	Pro boj v Chrámu Mao se posilni odolností proti vìtru.
+82	Pro boj v Chrámu Chen se posilni odolností proti blesku.
+83	Pro boj v Chrámu Si se posilni odolností proti ledu.
+84	Pro boj v Chrámu Wu se posilni odolností proti ledu.
+85	Pro boj v Chrámu Wei se posilni odolností proti blesku.
+86	Pro boj v Chrámu Shen se posilni odolností proti Zemi.
+87	Pro boj v Chrámu You se posilni odolností proti vìtru.
+88	Pro boj v Chrámu Xu se posilni odolností proti temnotì.
+89	Pro boj v Chrámu Hai se posilni odolností proti ohni.
+90	Odpovídající talisman elementu ti ulehèí ivot v Chrámu Zvìrokruhu.
+91	Nabij 12 Animaspher pro získání vstupu do Chrámu Zvìrokruhu.
+92	Hranol oivení tì v Chrámu Zvìrokruhu oiví.
+93	Talisman elementu lze zulechtit a do +200.
+94	Insignie stráce získá od Obchodníka Zvìrokruhu na 40. úrovni Chrámu Zvìrokruhu.
+95	Pomocí Hranolu oivení mùe oivit své pøátele.
+96	Do Chrámu Zvìrokruhu mùe vstoupit sám, ale vìtí odmìny získá ve skupinì.
+97	Kadá úroveò Chrámu Zvìrokruhu má èasovı limit 10 minut.
+98	Jsi pøipraven vydat se na cestu?
+99	Má 25 minut na obranu lodi proti útokùm Hydry.
+100	Posil se Odolností proti ledu proti pøíerám z Obrany lodi.
+101	Obranu lodi spustí pomocí kormidelního kola.
+102	Ochraò stìeò s hlavní plachtou za kadou cenu, jinak ztroskotá.
+103	Z Hydøího zplozence padají v boji velijaké uiteèné pøedmìty.
+104	Gaya obchodník v pøístavu nového kontinentu nabízí lepí anci na vırobu Gaya ne kdekoliv jinde na svìtì.
+105	Rychle zastav útoky Hydøího zplozence, abys zabránil námoøní katastrofì.
+106	Po epické plavbì tì èeká novı kontinent!
+107	Hej, ty tam! Ano, ty! Tım Metin2 <3 you! x)
+108	Pokud dokonèí denní úkol Náhorní ploiny iluzí, má zaruèen zisk Svitku oivení.
+109	Pokud dokonèí úkol Èasová trhlina, má anci na zisk Svitku oivení.
+110	Pokud dokonèí úkol Èasová trhlina 10x, má zaruèen zisk Svitku oivení.
+111	Pøíery v Bluditi oivení jsou silnìjí ne ty v Èasové trhlinì.
+112	Boss v Bluditi oivení stráí Truhlu bosse Oivení.
+113	Støepy Draèího kamene+ lze získat v Èasové trhlinì a v Bluditi oivení.
+114	Z pøíer v Èasové trhlinì nepadají pøedmìty.
+115	Øíi elementálù obıvá mnoho rùznıch pøírodních duchù.
+116	Pøi pouívání správnıch materiálù mùe na vıbavu aplikovat sadu efektù a odemknout tak sady bonusù.
+117	Na Náhorní ploinu Prvotních sil se dostane pomocí Prstenu prvotních sil.
+118	Ve svìtì Metin2 existuje spousta mocnıch pøírodních duchù.
+119	Nezkrotné pøírodní síly na Náhorní ploinì Prvotních sil ti ukradnou ZB.
+120	Mùe pouít Medaili Prvotních sil, aby ses ochránil pøed Kletbou elementálu.
+121	Kdo bude poslední, co stojí na nohou?
+122	Vítej v módu Královské bitvy!
+123	Negativní posílení lze bìhem boje odebrat pomocí Grilovaného okouna.
+124	Pokud porazí více ne 10 hráèù, získá speciální odmìnu.
+125	V 2. a 4. bezpeèné zónì najde Speciální truhlu se zásobami.
+126	Pokud znièí Truhlu se zásobami nebo Truhlu s vıbavou, tvé body ivota budou obnoveny.
+127	Bìhem Královské bitvy mùe volnì pouívat emoce.
+128	Na novı kontinent Yohara mùe vstoupit od úrovnì 120.
+129	Lov silnìjí pøíery pro lepí koøist!
+130	Temnoha Sung Mahi z tebe bude vysávat na kontinentu Yohara sílu. Posil si vùli, abys lépe odolával!
+131	Nové pøedmìty mùe získat na Planinách Dong Gwang.
+132	Abys mohl nosit rukavice, musí dokonèit odpovídající úkol.
+133	Rukavice garantují rùzné uiteèné bonusy.
+134	Mistr Chi ti mùe vyrobit spoustu uiteènıch pøedmìtù.
+135	Chce získat nìjaké trvalé bonusy? Pak pomoz biologovi Chaegirabovi s jeho vızkumem!
+136	Pomocí Relikvie due mùe pøidat své postavì pasivní bonusy.
+137	Jakmile dosáhne dalí úrovnì ampióna, mùe zvyovat nové hodnoty.
+138	Prokletí vìøí ve své spojence - starodávná moudrost
+139	Ve Vìi Sung Mahi bude èelit hordám nepøátel.
+140	Za kadou dokonèenou úroveò Vìe Sung Mahi obdrí odmìnu.
+141	Jen ti nejsilnìjí se dostanou a na vrchol Vìe Sung Mahi.
+142	Èím je silnìjí tvá Vùle Sung Ma, tím ménì se bude muset na Yohaøe vypoøádávat s Mali.
+143	Pokud zemøe v Jeskyních Gnollù, bude teleportován ven. Dávej si pozor!
+144	V Jeskyních Gnollù existuje spousta tajnıch chodeb.
+145	Je tam mnich, kterı celé místo ovládá.
+146	Vítej v tajemném bluditi.
+147	Zde mùe získat mocnı talisman.
+148	Promluv si s Hadím strácem o vstupu do Hadího chrámu.
+149	Pro prozkoumání Hadího chrámu mùe pouit Sochu hada.
+150	Je tam pøíera, která se mùe promìnit v bosse.
+151	Do Hadího chrámu mùe vstoupit pomocí Hadí sochy.
+152	Na 6. úrovni je speciální kováø, kterı mùe vylepit tvé rukavice.
+153	Na 7. úrovni nalezne nejvyího bosse Hadího chrámu - Hadí královnu Nethis.
+154	Zbıvající èas v Hadím chrámu mùe bıt prodlouen pomocí Hadího prachu.
+155	Invazní portál Sung Ma mùe znièit tak, e nejprve pozabíjí vechny pøíery v okolí.
+156	Pouij Kvìtinu síly na vylepení svıch bojovıch schopností.
+157	Kvìtiny bouøe doèasnì zvıí tvou rychlost pohybu.
+158	Za poráku bossù získá trofeje.
+159	Vítej v Zemi zlata!
+160	Bombové vìe, které se mohou skrıvat v sochách Primordis, jsou smrtící.
+161	Na jednotlivé úrovnì mùe jít pøes Zlatı monolit.
+162	U Zlaté plamy mùe zahájit hru Lov Zlatıch bobulí.
+163	Potulného obchodníka najde v oáze.
+164	Vítej na Ostrovì pokladù!
+165	Ochraò Goblina s pokladem pøed èíhajícími monstry!
+166	Po návratu z Ostrova pokladù se vrátí na pùvodní místo.
+167	Monstra u sebe mají malé èástky v dublonech.
+168	Pøed tím, ne se ke Goblinovi pøidá, tak mu mùe poehnat.

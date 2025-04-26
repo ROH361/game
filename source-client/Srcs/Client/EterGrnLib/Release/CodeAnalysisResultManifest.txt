@@ -1,0 +1,15 @@
+Release\LODController.nativecodeanalysis.sarif
+Release\Material.nativecodeanalysis.sarif
+Release\Mesh.nativecodeanalysis.sarif
+Release\Model.nativecodeanalysis.sarif
+Release\ModelInstance.nativecodeanalysis.sarif
+Release\ModelInstanceCollisionDetection.nativecodeanalysis.sarif
+Release\ModelInstanceModel.nativecodeanalysis.sarif
+Release\ModelInstanceMotion.nativecodeanalysis.sarif
+Release\ModelInstanceRender.nativecodeanalysis.sarif
+Release\ModelInstanceUpdate.nativecodeanalysis.sarif
+Release\Motion.nativecodeanalysis.sarif
+Release\StdAfx.nativecodeanalysis.sarif
+Release\Thing.nativecodeanalysis.sarif
+Release\ThingInstance.nativecodeanalysis.sarif
+Release\Util.nativecodeanalysis.sarif

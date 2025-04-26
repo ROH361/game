@@ -1,0 +1,11 @@
+Release\SoundBase.nativecodeanalysis.sarif
+Release\SoundData.nativecodeanalysis.sarif
+Release\SoundInstance2D.nativecodeanalysis.sarif
+Release\SoundInstance3D.nativecodeanalysis.sarif
+Release\SoundInstanceStream.nativecodeanalysis.sarif
+Release\SoundManager.nativecodeanalysis.sarif
+Release\SoundManager2D.nativecodeanalysis.sarif
+Release\SoundManager3D.nativecodeanalysis.sarif
+Release\SoundManagerStream.nativecodeanalysis.sarif
+Release\Stdafx.nativecodeanalysis.sarif
+Release\Type.nativecodeanalysis.sarif

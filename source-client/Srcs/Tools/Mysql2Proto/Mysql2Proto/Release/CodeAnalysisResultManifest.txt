@@ -1,0 +1,3 @@
+Release\Mysql2Proto.nativecodeanalysis.sarif
+Release\lzo.nativecodeanalysis.sarif
+Release\tea.nativecodeanalysis.sarif

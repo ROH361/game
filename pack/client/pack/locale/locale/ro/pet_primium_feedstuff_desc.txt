@@ -1,0 +1,6 @@
+[DELAY value;0]
+Poşi reînvia însoşitorul mort folosind Doze de Proteinã[ENTER]
+Divinã pe însoşitorul mort.\n[ENTER]
+Numãrul de obiecte necesare depinde de nivelul[ENTER]
+însoşitorului.\n[ENTER]
+Însoşitorul mort va reînvia cu 80% din vârsta originalã.\n

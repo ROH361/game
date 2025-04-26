@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonShop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonShop.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonShop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonShop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonAcce.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonAcce.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonAcce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonAcce.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonApplication.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonItemModule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonItemModule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonNonPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonNonPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonNonPlayerModule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F6CEB04C-4403-4CD4-84A2-D6A372BD4334}|UserInterface\\UserInterface.vcxproj|solutionrelative:UserInterface\\PythonNonPlayerModule.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Extern\\include\\cryptopp\\config.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\array||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PythonShop.cpp",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonShop.cpp",
+              "RelativeDocumentMoniker": "UserInterface\\PythonShop.cpp",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonShop.cpp",
+              "RelativeToolTip": "UserInterface\\PythonShop.cpp",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAawHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T08:17:20.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PythonPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonPlayer.cpp",
+              "RelativeDocumentMoniker": "UserInterface\\PythonPlayer.cpp",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonPlayer.cpp",
+              "RelativeToolTip": "UserInterface\\PythonPlayer.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAawBUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T07:48:14.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PythonAcce.h",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonAcce.h",
+              "RelativeDocumentMoniker": "UserInterface\\PythonAcce.h",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonAcce.h",
+              "RelativeToolTip": "UserInterface\\PythonAcce.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T23:13:51.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "array",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\array",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\array",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\array",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Tools\\MSVC\\14.41.34120\\include\\array",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-10T23:09:16.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PythonApplication.h",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonApplication.h",
+              "RelativeDocumentMoniker": "UserInterface\\PythonApplication.h",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonApplication.h",
+              "RelativeToolTip": "UserInterface\\PythonApplication.h",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAYwGMBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T22:57:54.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PythonApplication.cpp",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonApplication.cpp",
+              "RelativeDocumentMoniker": "UserInterface\\PythonApplication.cpp",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonApplication.cpp",
+              "RelativeToolTip": "UserInterface\\PythonApplication.cpp",
+              "ViewState": "AgIAAH8EAAAAAAAAAAAYwIUEAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T22:57:40.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "config.h",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Extern\\include\\cryptopp\\config.h",
+              "RelativeDocumentMoniker": "..\\Extern\\include\\cryptopp\\config.h",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Extern\\include\\cryptopp\\config.h",
+              "RelativeToolTip": "..\\Extern\\include\\cryptopp\\config.h",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAowOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T22:57:15.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonShop.h",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonShop.h",
+              "RelativeDocumentMoniker": "UserInterface\\PythonShop.h",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonShop.h",
+              "RelativeToolTip": "UserInterface\\PythonShop.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-10T22:48:33.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PythonAcce.cpp",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonAcce.cpp",
+              "RelativeDocumentMoniker": "UserInterface\\PythonAcce.cpp",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonAcce.cpp",
+              "RelativeToolTip": "UserInterface\\PythonAcce.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-10T22:45:30.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PythonItemModule.cpp",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonItemModule.cpp",
+              "RelativeDocumentMoniker": "UserInterface\\PythonItemModule.cpp",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonItemModule.cpp",
+              "RelativeToolTip": "UserInterface\\PythonItemModule.cpp",
+              "ViewState": "AgIAAD8CAAAAAAAAAAAkwDICAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T20:33:21.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PythonNonPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonNonPlayer.cpp",
+              "RelativeDocumentMoniker": "UserInterface\\PythonNonPlayer.cpp",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonNonPlayer.cpp",
+              "RelativeToolTip": "UserInterface\\PythonNonPlayer.cpp",
+              "ViewState": "AgIAAF0BAAAAAAAAAAAkwJUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-02T00:51:09.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PythonNonPlayerModule.cpp",
+              "DocumentMoniker": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonNonPlayerModule.cpp",
+              "RelativeDocumentMoniker": "UserInterface\\PythonNonPlayerModule.cpp",
+              "ToolTip": "C:\\Users\\gdb\\Desktop\\source-client\\Srcs\\Client\\UserInterface\\PythonNonPlayerModule.cpp",
+              "RelativeToolTip": "UserInterface\\PythonNonPlayerModule.cpp",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAkwBIBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-01T11:02:27.418Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

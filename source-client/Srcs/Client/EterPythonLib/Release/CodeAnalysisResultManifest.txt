@@ -1,0 +1,11 @@
+Release\PythonGridSlotWindow.nativecodeanalysis.sarif
+Release\PythonSlotWindow.nativecodeanalysis.sarif
+Release\PythonWindow.nativecodeanalysis.sarif
+Release\PythonWindowManager.nativecodeanalysis.sarif
+Release\PythonWindowManagerModule.nativecodeanalysis.sarif
+Release\PythonGraphic.nativecodeanalysis.sarif
+Release\PythonGraphicImageModule.nativecodeanalysis.sarif
+Release\PythonGraphicModule.nativecodeanalysis.sarif
+Release\PythonGraphicTextModule.nativecodeanalysis.sarif
+Release\PythonGraphicThingModule.nativecodeanalysis.sarif
+Release\StdAfx.nativecodeanalysis.sarif

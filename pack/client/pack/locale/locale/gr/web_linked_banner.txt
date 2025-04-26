@@ -1,0 +1,15 @@
+Group Info
+{
+
+	on_off	0
+}
+
+Group Banner
+{
+	
+	Group Link_Metin2_Account_With_Steam
+	{
+		text		"Áíôßï Steam: ÌåôáöïñÜ óôïí client ôçò Gameforge!"
+		url			"https://gr.metin2.gameforge.com/steam/moveingame"
+	}
+}

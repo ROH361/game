@@ -1,0 +1,5 @@
+Release\Arabic.nativecodeanalysis.sarif
+Release\Japanese.nativecodeanalysis.sarif
+Release\StdAfx.nativecodeanalysis.sarif
+Release\StringCodec.nativecodeanalysis.sarif
+Release\StringCodec_Vietnamese.nativecodeanalysis.sarif

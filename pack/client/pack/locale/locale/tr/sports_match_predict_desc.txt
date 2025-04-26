@@ -1,0 +1,6 @@
+[DELAY value;0]
+Seçtiğin takım kazanırsa ve onları daha sık[ENTER]
+alkışladıysan daha fazla ödül alırsın.[ENTER]
+Ülke Bileti: Şampiyonluk Kupası karşılığında[ENTER]
+alınabilir.[ENTER]
+Alkış Bileti: Şampiyonluk Sandığından alınabilir.

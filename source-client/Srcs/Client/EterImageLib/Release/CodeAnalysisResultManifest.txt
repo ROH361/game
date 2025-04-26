@@ -1,0 +1,4 @@
+Release\DXTCImage.nativecodeanalysis.sarif
+Release\Image.nativecodeanalysis.sarif
+Release\StdAfx.nativecodeanalysis.sarif
+Release\TGAImage.nativecodeanalysis.sarif

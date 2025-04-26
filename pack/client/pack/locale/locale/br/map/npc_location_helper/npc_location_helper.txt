@@ -1,0 +1,257 @@
+# ¸Êº° NPCÀ§Ä¡µµ¿ì¹Ì Á¤º¸
+Group	MapInfo
+{
+	## °øÅë
+	# map_index (¸Ê¹øÈ£)
+	# map_name (¸ÊÀÌ¸§, Å¬¶óÀÌ¾ğÆ®¿¡¼± ÀĞÁö ¾ÊÀ¸¸ç, ±âÈ¹ÆíÀÇ¿ë ÄÃ·³)
+	# map_dir (¸ÊÆú´õ)
+	# category (Áö¿ª) { 0:¹Ì³ëÃâ(Unexposed), 1:Á¦±¹ Áö¿ª, 2:Áß¸³ Áö¿ª, 3:¾Ç·æ±ºµµ, 4:¹Ì±Ã, 5:Á¦±¹ ´øÀü, 6:½Å´ë·ú ÇÊµå, 7:½Å´ë·ú ´øÀü }
+	# min_level(·¹º§Á¦ÇÑ. ¸Ê¿¡ ÁøÀÔÇÏ±â À§ÇÑ ÃÖ¼Ò·¹º§)
+	# min_c_level (Á¤º¹ÀÚ ·¹º§Á¦ÇÑ. ¸Ê¿¡ ÁøÀÔÇÏ±â À§ÇÑ ÃÖ¼Ò Á¤º¹ÀÚ·¹º§)
+	# recommended_level_min (ÃßÃµ·¹º§ min. Á¤º¹ÀÚ ·¹º§Á¦ÇÑÀÌ 0º¸´Ù Å©¸é Á¤º¹ÀÚ·¹º§, ¾Æ´Ï¸é ÀÏ¹İ·¹º§. °ªÀÌ0ÀÌ¸é Ç¥±â¾ÈÇÔ)
+	# recommended_level_max (ÃßÃµ·¹º§ max. Á¤º¹ÀÚ ·¹º§Á¦ÇÑÀÌ 0º¸´Ù Å©¸é Á¤º¹ÀÚ·¹º§, ¾Æ´Ï¸é ÀÏ¹İ·¹º§. °ªÀÌ0ÀÌ¸é Ç¥±â¾ÈÇÔ)
+	# empire (Á¦±¹) { 0 : ÀüÃ¼, 1 : ½Å¼ö±¹, 2 : ÃµÁ¶±¹, 3 : Áø³ë±¹ }
+	# show_atlas (Áöµµ¸¦ º¸¿©ÁÖ´Â ¸ÊÀÎÁö) { 0 : Atlas ¾Èº¸¿©ÁÜ, 1 : Atlas ±âº»ÀûÀ¸·Î Á¦°øµÊ, 2 : Atlas ¿Ï¼ºµÈ Áöµµ·Î È¹µæÇØ¾ß¸¸ º¸¿©ÁÜ }
+	# show_npc_list(NPC¸ñ·ÏÀ» º¸¿©ÁÖ´Â ¸ÊÀÎÁö) { 0 : ¾Èº¸¿©ÁÜ, 1 : º¸¿©ÁÜ }
+	# warp_need_yang (¸ÊÀ¸·Î ¿öÇÁÇÒ¶§ ÇÊ¿äÇÑ Yang)
+	# warp_need_item (¸ÊÀ¸·Î ¿öÇÁÇÒ¶§ ÇÊ¿äÇÑ ¾ÆÀÌÅÛ) { ex) 71130,1 | 71095,1 | 76019,1 }
+
+	#map_index	map_name	map_dir	category	min_level	min_c_level	recommended_level_min	recommended_level_max	empire	show_atlas	show_npc_list	warp_need_yang	warp_need_item
+	392	½ÃÀå¸Ê	metin2_map_privateshop	1	1	0	0	30	0	1	1	0	0
+	1	¿µ¾ÈÀ¾¼º	metin2_map_a1	1	1	0	1	25	1	1	1	0	0
+	3	ÀÚ¾çÇö	metin2_map_a3	1	1	0	26	37	1	1	1	0	0
+	5	ÇÏ¼±µ¿	metin2_map_monkey_dungeon_11	5	1	0	30	37	1	2	1	0	0
+	21	Á¶¾ÈÀ¾¼º	metin2_map_b1	1	1	0	1	25	2	1	1	0	0
+	23	º¹Á¤Çö	metin2_map_b3	1	1	0	26	37	2	1	1	0	0
+	25	ÇÏ¼±µ¿	metin2_map_monkey_dungeon_12	5	1	0	30	37	2	2	1	0	0
+	41	Æò¹«À¾¼º	metin2_map_c1	1	1	0	1	25	3	1	1	0	0
+	43	¹Ú¶óÇö	metin2_map_c3	1	1	0	26	37	3	1	1	0	0
+	45	ÇÏ¼±µ¿	metin2_map_monkey_dungeon_13	5	1	0	30	37	3	2	1	0	0
+	4	Áß¶ûÇö	metin2_map_guild_01	1	1	0	1	25	1	1	1	0	0
+	6	º¸Çö¸®	metin2_guild_village_01	1	1	0	0	0	1	1	1	0	0
+	24	¿Í·æÇö	metin2_map_guild_02	1	1	0	1	25	2	1	1	0	0
+	26	Á¤°¢¸®	metin2_guild_village_02	1	1	0	0	0	2	1	1	0	0
+	44	ÀÓÇÏÇö	metin2_map_guild_03	1	1	0	1	25	3	1	1	0	0
+	46	ÀÓ¼®¸®	metin2_guild_village_03	1	1	0	0	0	3	1	1	0	0
+	108	Áß¼±µ¿	metin2_map_monkeydungeon_02	5	10	0	36	43	0	2	1	0	0
+	109	»ó¼±µ¿	metin2_map_monkeydungeon_03	5	10	0	44	55	0	2	1	0	0
+	61	¼­ÇÑ»ê	map_n_snowm_01	2	10	0	49	65	0	1	1	0	0
+	62	µµ¿°È­Áö	metin2_map_n_flame_01	2	60	0	69	72	0	1	1	0	0
+	63	¿µºñ»ç¸·	metin2_map_n_desert_01	2	10	0	37	50	0	1	1	0	0
+	64	½Â·æ°î	map_n_threeway	2	10	0	34	49	0	1	1	0	0
+	65	¹Ğ±³»ç¿ø	metin2_map_milgyo	2	40	0	50	58	0	1	1	0	0
+	66	»ç±ÍÅ¸¿ö	metin2_map_deviltower1	5	40	0	50	58	0	0	0	0	0
+	67	±Í¸ñ¸²	metin2_map_trent	2	60	0	65	70	0	1	1	0	0
+	68	Àû±Í¸ñ¸²	metin2_map_trent02	2	70	0	74	77	0	2	1	0	0
+	69	»çÈ²Æò¾ß	metin2_map_WL_01	2	60	0	65	75	0	2	1	0	0
+	70	»çÈ²°î	metin2_map_nusluck01	2	60	0	68	75	0	2	1	0	0
+	104	°Å¹Ì´øÀü1Ãş	metin2_map_spiderdungeon	5	10	0	50	58	0	2	1	0	0
+	71	°Å¹Ì´øÀü2Ãş	metin2_map_spiderdungeon_02	5	10	0	58	67	0	2	1	0	71095,1
+	217	°Å¹Ì´øÀü3Ãş	metin2_map_spiderdungeon_03	5	50	0	61	74	0	2	1	0	71095,1
+	72	ÃµÀÇµ¿±¼1Ãş	metin2_map_skipia_dungeon_01	5	75	0	75	85	0	2	1	0	71095,5
+	73	ÃµÀÇµ¿±¼2Ãş	metin2_map_skipia_dungeon_02	5	75	0	85	95	0	2	1	0	71095,5
+	208	¼ö·æ¹æ	metin2_map_skipia_dungeon_boss	5	75	0	75	95	0	0	0	0	0
+	81	°áÈ¥½ÄÀå	metin2_map_wedding_01	0	0	0	0	0	0	1	1	0	0
+	91	¼öÀÎ¸¶À»	metin2_map_e1_01	1	1	0	1	5	1	1	1	0	0
+	92	¼öÀÎ¸¶À»	metin2_map_e1_02	1	1	0	1	5	2	1	1	0	0
+	93	¼öÀÎ¸¶À»	metin2_map_e1_03	1	1	0	1	5	3	1	1	0	0
+	103	±æµåÀü	metin2_map_t1	0	0	0	0	0	0	1	0	0	0
+	105	±æµåÀü	metin2_map_t2	0	0	0	0	0	0	1	0	0	0
+	110	±æµå¸ÍÀåÀü	metin2_map_t3	0	0	0	0	0	0	1	0	0	0
+	111	±æµå¼öÈ£Àü	metin2_map_t4	0	0	0	0	0	0	1	0	0	0
+	112	´ë·ÃÀå	metin2_map_duel	0	0	0	0	0	0	1	0	0	0
+	130	±æµå¸ÍÈ£Àü	metin2_guild_war1	0	0	0	0	0	0	1	0	0	0
+	131	±æµåÀü	metin2_guild_war2	0	0	0	0	0	0	1	0	0	0
+	132	±æµå¹æ¾îÀüÀü	metin2_guild_war3	0	0	0	0	0	0	1	0	0	0
+	133	±æµå½Ã°£Àü	metin2_guild_war4	0	0	0	0	0	0	1	0	0	0
+	216	¾Æ±Íµ¿±¼	metin2_map_devilsCatacomb	5	75	0	85	90	0	0	0	0	0
+	230	PVPÅä³Ê¸ÕÆ®	metin2_map_pvp_arena	0	0	0	0	0	0	1	1	0	0
+	301	¿ëµÎ°ù	Metin2_map_CapeDragonHead	3	90	0	95	105	0	1	1	0	0
+	302	È¿¹«¸²	metin2_map_dawnmistwood	3	90	0	95	105	0	1	1	0	0
+	303	Èæ»ç¸¸	metin2_map_BayBlackSand	3	90	0	95	105	0	1	1	0	0
+	304	³ú¼º»ê	metin2_map_Mt_Thunder	3	90	0	95	105	0	1	1	0	0
+	351	Àû·æÁö¼º	metin2_map_n_flame_dungeon_01	5	100	0	100	105	0	0	0	0	0
+	352	¹é·æÁö¼º	metin2_map_n_snow_dungeon_01	5	100	0	100	105	0	0	0	0	0
+	353	³ì¸²Áö	metin2_map_dawnmist_dungeon_01	3	95	0	100	120	0	1	1	0	0
+	354	½Å¸ñ´øÀü	metin2_map_Mt_Th_dungeon_01	3	95	0	95	110	0	2	1	0	0
+	355	½ÊÀÌÁö»ç¿ø	metin2_12zi_stage	5	20	0	20	120	0	1	1	0	0
+	356	¿ë¹æ	metin2_map_n_flame_dragon	5	75	0	95	120	0	0	0	0	0
+	357	¹èÆ²ÇÊµå	metin2_map_battlefied	0	0	0	0	0	0	1	0	0	0
+	358	µğÆæ½º¿şÀÌºê	metin2_map_defensewave	5	90	0	90	105	0	0	0	0	0
+	359	Ç×±¸	metin2_map_defensewave_port	3	90	0	0	0	0	1	1	0	0
+	363	¹Ì±Ã	metin2_map_labyrinth	4	110	0	110	120	0	1	1	0	0
+	364	±Õ¿­ ÃµÀÇµ¿±¼	metin2_map_boss_crack_skipia	4	110	0	110	120	0	2	1	0	0
+	365	±Õ¿­ Àû·æÁö¼º	metin2_map_boss_crack_flame	4	110	0	110	120	0	0	0	0	0
+	366	±Õ¿­ ¹é·æÁö¼º	metin2_map_boss_crack_snow	4	110	0	110	120	0	0	0	0	0
+	367	±Õ¿­ ³ì¸²Áö	metin2_map_boss_crack_dawnmist	4	110	0	110	120	0	1	1	0	0
+	368	°¢¼º ÃµÀÇµ¿±¼	metin2_map_boss_awaken_skipia	4	110	0	110	120	0	2	1	0	0
+	369	°¢¼º Àû·æÁö¼º	metin2_map_boss_awaken_flame	4	110	0	110	120	0	0	0	0	0
+	370	°¢¼º ¹é·æÁö¼º	metin2_map_boss_awaken_snow	4	110	0	110	120	0	0	0	0	0
+	371	°¢¼º ³ì¸²Áö	metin2_map_boss_awaken_dawnmist	4	110	0	110	120	0	1	1	0	0
+	373	µ¿±¤Æò¾ß	metin2_map_eastplain_01	6	120	0	120	0	0	1	1	0	0
+	374	Á¦±¹¼º	metin2_map_empirecastle	6	120	0	120	0	0	1	1	0	0
+	375	¹èÆ²·Î¾â	metin2_map_battleroyale	0	0	0	0	0	0	1	0	0	0
+	376	¼­±¤Æò¾ß	metin2_map_eastplain_02	6	120	0	120	0	0	1	1	0	0
+	377	³²±¤Æò¾ß	metin2_map_eastplain_03	6	120	0	120	0	0	1	1	0	0
+	378	Á¤·ÉÀÇ¶¥1	metin2_map_elemental_01	3	90	0	90	120	0	1	1	0	0
+	379	Á¤·ÉÀÇ¶¥2	metin2_map_elemental_02	3	90	0	90	120	0	1	1	0	0
+	380	Á¤·ÉÀÇ¶¥3	metin2_map_elemental_03	3	90	0	90	120	0	1	1	0	0
+	381	Á¤·ÉÀÇ¶¥Æ¯¼ö	metin2_map_elemental_04	3	90	0	90	120	0	1	1	0	0
+	382	¹Ì·Î´øÀü1	metin2_map_maze_dungeon1	7	120	1	1	30	0	2	1	0	71095,1
+	383	¹Ì·Î´øÀü2	metin2_map_maze_dungeon2	7	120	1	1	30	0	2	1	0	71095,1
+	384	¹Ì·Î´øÀü3	metin2_map_maze_dungeon3	7	120	1	1	30	0	2	1	0	71095,1
+	385	½º³×ÀÌÅ©¹ë¸®	metin2_map_snakevalley	6	120	1	1	30	0	1	1	0	0
+	386	¼º¸¶ÈñÅ¸¿ö	metin2_map_smhdungeon_01	7	120	1	1	30	0	1	1	0	0
+	388	ºùÁ¤°ñÂ¥±â	metin2_map_icecrystalcave	6	120	1	5	30	0	1	1	0	0
+	389	¹é·æ°è°î	metin2_map_whitdragonvalley	6	120	1	5	30	0	1	1	0	0
+	390	¹ì»ç¿øÇÊµå	metin2_map_snake_temple_01	6	120	1	5	30	0	2	1	0	0
+	391	¹ì»ç¿ø	metin2_map_snake_temple_02	7	120	1	5	30	0	0	0	0	0
+	393	¹é·æµ¿±¼1Ãş	metin2_map_whitedragoncave_01	7	120	1	10	30	0	2	1	0	71095,1
+	394	¹é·æµ¿±¼2Ãş	metin2_map_whitedragoncave_02	7	120	1	10	30	0	2	1	0	71095,1
+	395	¹é·æ¹æ	metin2_map_whitedragoncave_boss	7	120	1	15	30	0	0	0	0	0
+	396	½Åºñ´øÀü	metin2_map_anglar_dungeon_01	7	120	1	1	30	0	1	1	0	70408,1
+	404	¼º¸¶Èñ°ÔÀÌÆ®	metin2_map_smhgate_a1	0	0	0	0	0	0	1	0	0	0
+	405	¼º¸¶Èñ°ÔÀÌÆ®	metin2_map_smhgate_b1	0	0	0	0	0	0	1	0	0	0
+	406	¼º¸¶Èñ°ÔÀÌÆ®	metin2_map_smhgate_c1	0	0	0	0	0	0	1	0	0	0
+	407	¼º¸¶Èñ°ÔÀÌÆ®	metin2_map_smhgate_threeway	0	0	0	0	0	0	1	0	0	0
+	408	¼º¸¶Èñ°ÔÀÌÆ®	metin2_map_smhgate_desert	0	0	0	0	0	0	1	0	0	0
+	409	¼º¸¶Èñ°ÔÀÌÆ®	metin2_map_smhgate_flame	0	0	0	0	0	0	1	0	0	0
+	410	¼º¸¶Èñ°ÔÀÌÆ®	metin2_map_smhgate_snow	0	0	0	0	0	0	1	0	0	0
+	411	¼º¸¶Èñ°ÔÀÌÆ®	metin2_map_smhgate_devils	0	0	0	0	0	0	1	0	0	0
+	412	¼º¸¶Èñ°ÔÀÌÆ®	metin2_map_smhgate_dawnmist	0	0	0	0	0	0	1	0	0	0
+	413	±æµå´ëÀüÀüÃÊ±âÁö	metin2_map_guild_battle_base	0	0	0	0	0	0	1	0	0	0
+	414	±æµå´ëÀü	metin2_map_guild_battle	0	0	0	0	0	0	1	0	0	0
+}
+
+# °°Àº ¸Ê¿¡ ÀÖ´Â Ä³¸¯ÅÍ¸¸ NPC·Î ÀÌµ¿ °¡´É
+Group	CanOnlyWarpFromSameMap
+{
+	0	359
+	1	91
+	2	92
+	3	93
+	4	353
+	5	390
+	6	378
+	7	379
+	8	380
+	9	381
+	10	354
+}
+
+# °°Àº Á¦±¹ÀÇ Ä³¸¯ÅÍ¸¸ ¸ÊÀ¸·Î ÀÌµ¿ °¡´É
+Group	CanOnlyWarpSameEmpireMap
+{
+	0	1
+	1	21
+	2	41
+	3	3
+	4	23
+	5	43
+	6	4
+	7	24
+	8	44
+	9	6
+	10	26
+	11	46
+}
+
+# ´øÀü¸ÊÀÌ¶ó ÀÌµ¿ ºÒ°¡´ÉÇÑ ¸Ê¸ñ·Ï
+Group	CannotWarpToDungeonMap
+{
+	0	364
+	1	367
+	2	368
+	3	371
+	4	81
+}
+
+# ÀÔÀå±Ç ¾ÆÀÌÅÛÀ» »ç¿ëÇÏ¿© ÀÌµ¿ °¡´ÉÇÑ ¸ÊÀÎ°æ¿ì, °°Àº ¸Ê³¢¸® ÀÌµ¿½Ã¿¡´Â ÀÔÀå±Ç ¼Ò¸ğ ¾ÈµÊ
+# °°Àº ¸Ê Á¤º¸
+Group	DungeonSameMap
+{
+	# ÃµÀÇµ¿±¼
+	Group	skipia_dungeon
+	{
+		0	72
+		1	73
+	}
+	
+	# ¹é·æµ¿±¼
+	Group	white_dragon_cave
+	{
+		0	393
+		1	394
+	}
+	
+	# °Å¹Ìµ¿±¼
+	Group	spider_dungeon
+	{
+		0	71
+		1	217
+	}
+	
+	# ¹Ì·Î´øÀü
+	Group	maze_dungeon
+	{
+		0	382
+		1	383
+		2	384
+	}
+	
+	# Á¤·ÉÀÇ¶¥
+	Group	elemental_dungeon
+	{
+		0	378
+		1	379
+		2	380
+		3	381
+	}
+	
+	# ½Åºñ´øÀü
+	Group	faming_dungeon
+	{
+		0	396
+	}
+}
+
+# ±æµåºÎÁö¿¡¼­ º¸¿©ÁÙ NPC¸ñ·Ï
+Group	GuildLandNPCVnum
+{
+	0	20040
+	1	20827
+	2	20044
+	3	20045
+	4	20046
+	5	20060
+	6	20061
+	7	20062
+	8	20063
+	9	20064
+	10	20065
+	11	20066
+	12	20067
+	13	20068
+	14	20069
+	15	20070
+	16	20071
+	17	20072
+	18	20077
+	19	20078
+	20	20079
+	21	20423
+	22	20424
+	23	20425
+	24	20426
+	25	20427
+	26	20428
+	27	20660
+	28	20661
+	29	20662
+	30	20663
+	31	60000
+	32	60001
+	33	60002
+	34	20835
+	35	20828
+}

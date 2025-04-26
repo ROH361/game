@@ -1,0 +1,6 @@
+[DELAY value;0]
+Etkinlik açıklaması[ENTER]
+Şampiyonluk etkinliği başladı! Futbol topları artık[ENTER]
+envanterde görünmüyor. Mümkün olduğu kadar çok topla[ENTER]
+ve Yu-Hwan'da altın toplarla takas et veya bunları[ENTER]
+eşya almak için kullan.

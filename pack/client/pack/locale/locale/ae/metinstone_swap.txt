@@ -1,0 +1,156 @@
+# Group metinstone_range ¼³¸í
+# range				: º¯°æÇÒ ¸ŞÆ¾¼® ¹üÀ§ ¹øÈ£ÀÔ´Ï´Ù. ±×·ì metinstone_range¿¡ °°Àº range°¡ ÀÖÀ¸¸é ¾ÈµË´Ï´Ù. range°ªÀÌ 256À» ³Ñ¾î°¥ °æ¿ì ÇÁ·Î±×·¡¸Ó¿¡°Ô ¸»¾¸ÇØÁÖ¼¼¿ä (ÄÚµå ¼öÁ¤ ÇÊ¿ä)
+# Group range_vnum	: ¹üÀ§¿¡ ÇØ´ç µÉ ¸ŞÆ¾¼® vnum µéÀ» Ãß°¡ÇØÁÖ¼¼¿ä.
+Group metinstone_range
+{
+	range	1
+	List range_vnum
+	{
+		8001
+		8002
+		8003
+		8004
+		8005
+		8006
+		8007
+		8008
+		8009
+		8010
+		8011
+		8012
+		8013
+		8014
+		8015
+		8016
+		8017
+		8018
+		8019
+		8020
+		8021
+		8022
+		8023
+		8024
+		8025
+		8026
+		8027
+		8031
+		8032
+		8033
+		8034
+		8035
+		8036
+		8037
+		8038
+		8039
+		8040
+	}
+}
+
+Group metinstone_range
+{
+	range	2
+	List range_vnum
+	{
+		8051
+		8052
+		8053
+		8054
+		8055
+		8056
+		8057
+		8058
+		8059
+		8060
+		8061
+		8062
+		8063
+		8064
+		8065
+		8066
+		8067
+		8076
+		8077
+		8101
+		8102
+		8103
+		8104
+		8105
+		8106
+		8107
+		8108
+		8109
+		8110
+		8111
+		8112
+		8113
+		8114
+		8115
+	}
+}
+
+# Group metinstone_swap ¼³¸í
+# event_flag_value		: ¸ŞÆ¾¼® ¿ÜÇü º¯°æ ÀÌº¥Æ® ÇÃ·¡±× °ª
+# range_number			: º¯°æÇÒ ¸ŞÆ¾¼® vnum ¹üÀ§ ¹øÈ£. ( À§¿¡ ÀÖ´Â Group metinstone_swap_range ÀÇ range ¹øÈ£ )
+# swap_vnum				: ¿ÜÇü º¯°æ mob vnum °ª
+# can_use_mob_color		: ´Ù¸¥ ¿ÜÇüÀ¸·Î º¯°æµÉ ¶§ mob_protoÀÇ ¸÷ »ö»óÀ» Çã¿ëÇÏ´ÂÁö ¿©ºÎ (false : Çã¿ëÇÏÁö¾ÊÀ½, true : Çã¿ëÇÔ)
+# : ¸ŞÆ¾¼® ¿ÜÇü º¯°æ ÀÌº¥Æ® ÇÃ·¡±×°ªÀÏ ¶§, ¸ŞÆ¾¼® vnumÀÌ ¿ÜÇü º¯°æµÉ ¹üÀ§¿¡ ÀÖÀ¸¸é ¿ÜÇüÀ» swap_vnumÀ¸·Î º¯°æÇÕ´Ï´Ù.
+
+# À·³îÀÌ, Àè¿À·£ÅÏ
+Group metinstone_swap
+{
+	event_flag_value	1
+	Group swap_data
+	{
+		#range_number	swap_vnum	can_use_mob_color
+		1	8060	true
+		2	8060	true
+	}
+}
+
+# ¶ó¸¶´Ü ÀÌº¥Æ®
+Group metinstone_swap
+{
+	event_flag_value	2
+	Group swap_data
+	{
+		#range_number	swap_vnum	can_use_mob_color
+		1	8203	true
+		2	8203	true
+	}
+}
+
+# ¿©¸§ ÀÌº¥Æ®
+Group metinstone_swap
+{
+	event_flag_value	3
+	Group swap_data
+	{
+		#range_number	swap_vnum	can_use_mob_color
+		1	8202	true
+		2	8202	true
+	}
+}
+
+# ¹ß·»Å¸ÀÎ ÀÌº¥Æ®
+Group metinstone_swap
+{
+	event_flag_value	4
+	Group swap_data
+	{
+		#range_number	swap_vnum	can_use_mob_color
+		1	8200	false
+		2	8201	false
+	}
+}
+
+# ´º¿ùµåÄÅ Ãà±¸°ø
+Group metinstone_swap
+{
+	event_flag_value	5
+	Group swap_data
+	{
+		#range_number	swap_vnum	can_use_mob_color
+		1	8207	true
+		2	8207	true
+	}
+}

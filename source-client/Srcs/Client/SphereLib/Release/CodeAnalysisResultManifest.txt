@@ -1,0 +1,4 @@
+Release\frustum.nativecodeanalysis.sarif
+Release\sphere.nativecodeanalysis.sarif
+Release\spherepack.nativecodeanalysis.sarif
+Release\StdAfx.nativecodeanalysis.sarif

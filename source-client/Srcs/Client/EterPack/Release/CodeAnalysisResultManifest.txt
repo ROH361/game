@@ -1,0 +1,6 @@
+Release\EterPack.nativecodeanalysis.sarif
+Release\EterPackCursor.nativecodeanalysis.sarif
+Release\EterPackManager.nativecodeanalysis.sarif
+Release\EterPackPolicy_CSHybridCrypt.nativecodeanalysis.sarif
+Release\md5.nativecodeanalysis.sarif
+Release\StdAfx.nativecodeanalysis.sarif

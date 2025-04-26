@@ -1,0 +1,23 @@
+1	Dayanıklılık (Savaşçı)	jijoong	PASSIVE	Savaşçı ataklarına karşı dayanıklılık (pasif)	0
+2	Dayanıklılık (Sura)	jijoong	PASSIVE	Sura ataklarına karşı dayanıklılık (pasif)	0
+3	Dayanıklılık (Ninja)	jijoong	PASSIVE	Ninja ataklarına karşı dayanıklılık (pasif)	0
+4	Dayanıklılık (Şaman)	jijoong	PASSIVE	Şaman ataklarına karşı dayanıklılık (pasif)	0
+5	Dayanıklılık (Lycan)	jijoong	PASSIVE	Lycan ataklarına karşı dayanıklılık (pasif)	0
+6	Berserker	pacheon	PASSIVE	Saldırı değeri artar (pasif)	0
+7	Büyü Bozma	cheonryeong	PASSIVE	Rakibin büyüsü bozulur (pasif)	0
+8	Hızlandırma	banya	PASSIVE	Becerilerin yükleme süresi düşer (pasif)	0
+9	Talim	choehoenbimu	PASSIVE	Delici isabet şansı artar (pasif)	0
+10	Yenileme	heal	AUTO	HP değeri %20'nin altına düştüğü takdirde yenilenir	480
+11	Vampir	stealhp	PASSIVE	Düşmandan HP çeker (pasif)	0
+12	Hayaletler	stealmp	PASSIVE	Düşmanlardan SP çeker (pasif)	0
+13	Engel	block	PASSIVE	Fiziksel hasar engellenir (pasif)	0
+14	Yansıtma	reflect_melee	PASSIVE	Edinilen hasar düşmana yansıtılır (pasif)	0
+15	Yang Düşme	gold_drop	PASSIVE	Yang düşme oranı artar (pasif)	0
+16	Menzil	bow_distance	PASSIVE	Menzil artar (pasif)	0
+17	Yenilmezlik	invincibility	AUTO	Geçiçi yenilmezlik şansı	600
+18	İyileştirme	removal	AUTO	Kanama, zehir ve yavaşlama etkilerini kaldırma şansı	480
+19	Mayalama ustası	potion	PASSIVE	İksirler yoluyla yenilenme artar (pasif)	0
+20	Canavar avcısı	mob_bonus	PASSIVE	"Canavarlara karşı güçlü" etkisi artar (pasif)	0
+21	Kavrayış	exp	PASSIVE	Toplanan EXP artar (pasif)	0
+22	Can çekme	hp_recover	PASSIVE	Öldürülen canavarlardan HP emer (pasif)	0
+23	Tüy gibi	feather	AUTO	Kısa bir süre için hafif adımı etkinleştirir	180

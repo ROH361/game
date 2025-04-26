@@ -1,0 +1,5 @@
+[DELAY value;0]
+Pokud tebou zvolenı tım vyhraje, získáš tím více[ENTER]
+odmìn, èím jsi je víckrát podpoøil.[ENTER]
+Lístek zemì: Lze jej získat vımìnou za Cenu MS.[ENTER]
+Lístek podpory: Lze jej získat z Truhly MS.
